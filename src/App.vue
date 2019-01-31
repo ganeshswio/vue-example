@@ -1,7 +1,7 @@
 <template>
   <div id="app">
 
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HelloWorld msg="Welcome to Your Ganesh.js App"/>
   </div>
 </template>
 
